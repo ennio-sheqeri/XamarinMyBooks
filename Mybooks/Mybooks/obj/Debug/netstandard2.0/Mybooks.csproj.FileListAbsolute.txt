@@ -1,0 +1,14 @@
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\bin\Debug\netstandard2.0\Mybooks.deps.json
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\bin\Debug\netstandard2.0\Mybooks.dll
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\bin\Debug\netstandard2.0\ref\Mybooks.dll
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\bin\Debug\netstandard2.0\Mybooks.pdb
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\Mybooks.csprojAssemblyReference.cache
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\NewBookPage.xaml.g.cs
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\Mybooks.AssemblyInfoInputs.cache
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\Mybooks.AssemblyInfo.cs
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\Mybooks.dll
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\ref\Mybooks.dll
+C:\Users\ennio\Desktop\xamarin\Mybooks\Mybooks\Mybooks\obj\Debug\netstandard2.0\Mybooks.pdb
